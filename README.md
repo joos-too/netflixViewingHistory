@@ -1,1 +1,1 @@
-Jupyter Notebook for Analysing a NetflixViewingHistory File
+Jupyter Notebook for Analysing a NetflixViewingHistory.csv File
